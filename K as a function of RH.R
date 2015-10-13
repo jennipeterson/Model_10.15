@@ -70,7 +70,7 @@ ChagasResModel=function(t, x, params){
 ##    Bifurcation across changes in abundance of animals with K as a function of RH
 ##
 #ResHosts<-20     ## Density of other hosts that bugs feed on
-ViabRH<-0.75      ##  Proportion of these hosts that can transmit CHagas- accounts for birds and maintains uninfecteds in population
+ViabRH<-0.01      ##  Proportion of these hosts that can transmit CHagas- accounts for birds and maintains uninfecteds in population
 RfV = 0.9        ## relative fitness of infected bugs
 Host = 10
 
