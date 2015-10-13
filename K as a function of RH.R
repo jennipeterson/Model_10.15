@@ -71,7 +71,7 @@ ChagasResModel=function(t, x, params){
 ##
 #ResHosts<-20     ## Density of other hosts that bugs feed on
 ViabRH<-0.01      ##  Proportion of these hosts that can transmit CHagas- accounts for birds and maintains uninfecteds in population
-RfV = 0.9        ## relative fitness of infected bugs
+RfV = 0.8        ## relative fitness of infected bugs
 Host = 10
 
 endt = 50.0
